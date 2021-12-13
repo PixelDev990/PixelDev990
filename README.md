@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PixelDev990
 - 👀 I’m interested in idk
-- 🌱 I’m currently learning Discord Bot Development
+- 🌱 I’m currently learning Software Development
 - 💞️ I’m looking to collaborate on Minecraft Modding
 - 📫 How to reach me PixelKing#0441 (discord)
 
