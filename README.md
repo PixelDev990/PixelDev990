@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **Animation** and **GameDevelopment**.
 - 🔧 I have worked on several **Mods , Projects** in the past.
 - 🎮 **Game Development** is currently my hobby.
-- 🤖 I am the owner of https://github.com/RezendBot/Rezend.
+- 🤖 I am the owner of [Rezend](https://github.com/RezendBot/Rezend.)
 <!--
 **PixelDev990/PixelDev990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
